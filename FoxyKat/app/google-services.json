@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747280509930",
+    "firebase_url": "https://foxykat.firebaseio.com",
+    "project_id": "foxykat",
+    "storage_bucket": "foxykat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747280509930:android:b216a9876a1ded42642093",
+        "android_client_info": {
+          "package_name": "com.example.foxykat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747280509930-75s0sp65lp0fnb0i7q7ctov7s7h6etap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foxykat",
+            "certificate_hash": "ba581143db309433a012efdbacc8b4b5820ef801"
+          }
+        },
+        {
+          "client_id": "747280509930-lu4hvt3icgt2vqt0p7dmp9jsiqkq6qeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkiPpy67aDszFXkQB2wkKtwyrrjKuMQl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747280509930-lu4hvt3icgt2vqt0p7dmp9jsiqkq6qeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

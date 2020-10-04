@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#06272E</color>
+    <color name="colorPrimaryDark">#010C0E</color>
+    <color name="colorAccent">#22BD9E</color>
+    <color name="white">#e4e4e4</color>
+    <color name="ripp">#FA8F8F8F</color>
+    <color name="chatbg">#3F6F78</color>
+    <color name="online">#32EF86</color>
+    <color name="ofline">#C60532</color>
+</resources>
